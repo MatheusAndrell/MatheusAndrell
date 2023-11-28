@@ -6,7 +6,6 @@
 </h2>
   
 <div align="center" style="diplay: flex;">
-
 <a href="https://www.instagram.com/andrellx_/" target="insta" rel="noreferrer">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png" width="36" height="36" alt="Instagram" style="margin-right: 10px;" /></a>
 <a href="https://twitter.com/andrellx_" target="Twitter" rel="noreferrer">
@@ -15,7 +14,7 @@
 <img src="https://cdn-icons-png.flaticon.com/256/174/174857.png" width="36" height="36" alt="Linkedin" /></a>
 </div>
 
-### Sobre mim
+<h2 align="center" > Sobre mim </h2>
 
 *   🌍  São Paulo - Guarulhos
 *   ✉️  E-mail para Contato : [matheusandrell27@gmail.com](mailto:matheusandrell27@gmail.com)
@@ -25,8 +24,13 @@
     <br/>
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=b3j8vehl96n1pe3twn2n89q7e&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=b3j8vehl96n1pe3twn2n89q7e&redirect=true)
 
+<div align="center" style="diplay: flex;">
 
-### ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusAndrell&show_icons=true&theme=transparent)
+### ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusAndrell&show_icons=true&theme=dark)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusAndrell&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ### Linguagens
 
@@ -60,3 +64,6 @@
 
 ### Softwares e Tecnologias
 <a href="https://insomnia.rest/download" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/2575745/67964810-4d9a2980-fbd7-11e9-8cf7-661ded187ee6.png" width="36" height="36" alt="Insomnia" /></a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://miro.medium.com/max/383/1*co_1qORNdM0PI1nvCp7Iig.png" width="36" height="36" alt="Git" /></a>
+
+</div>
