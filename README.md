@@ -1,16 +1,25 @@
-# Hello world, I'm Matheus Andrell 🤙
-## FrontEnd Developer | Systems Analysis and Development Student at ENIAC
+<h1 align="center"> Hello world, I'm Matheus Andrell 🤙 </h1>
 
+<h2> 
+    <p align="center">  Front End Developer</p> 
+    <p align="center">  Systems Analysis and Development Student at ENIAC </p>
+</h2>
   
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/andrellx_/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/andrellx_)
-[![LinkendIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-andrell-53482422a/)
+<div align="center" style="diplay: flex;">
+
+<a href="https://www.instagram.com/andrellx_/" target="insta" rel="noreferrer">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png" width="36" height="36" alt="Instagram" style="margin-right: 10px;" /></a>
+<a href="https://twitter.com/andrellx_" target="Twitter" rel="noreferrer">
+<img src="https://static.vecteezy.com/system/resources/previews/016/716/467/original/twitter-icon-free-png.png" width="36" height="36" alt="Twitter" style="margin-right: 10px;" /></a>
+<a href="https://www.linkedin.com/in/matheus-andrell-53482422a/" target="Linkedin" rel="noreferrer">
+<img src="https://cdn-icons-png.flaticon.com/256/174/174857.png" width="36" height="36" alt="Linkedin" /></a>
+</div>
 
 ### Sobre mim
 
 *   🌍  São Paulo - Guarulhos
 *   ✉️  E-mail para Contato : [matheusandrell27@gmail.com](mailto:matheusandrell27@gmail.com)
-*   💍  Em um relacionamento serio
+*   💍  Em um relacionamento sério
 *   🎒  README.md inspirado em (https://github.com/Mourishitz)
 *    🎵 Atualmente estou escutando: 
     <br/>
