@@ -18,7 +18,6 @@
 
 *   🌍  São Paulo - Guarulhos
 *   ✉️  E-mail para Contato : [matheusandrell27@gmail.com](mailto:matheusandrell27@gmail.com)
-*   💍  Em um relacionamento sério
 *   🎒  README.md inspirado em (https://github.com/Mourishitz)
 *    🎵 Atualmente estou escutando: 
     <br/>
