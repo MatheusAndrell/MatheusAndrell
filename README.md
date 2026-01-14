@@ -1,6 +1,5 @@
-<h1 align="center">Hello world, I'm Matheus Andrell 👾</h1>
+<h3 align="center">Backend Developer</h3>
 
-<h3 align="center">Backend Developer • PHP/Laravel • Full Stack background</h3>
 <h4 align="center">Systems Analysis and Development – ENIAC</h4>
 
 <p align="center">
