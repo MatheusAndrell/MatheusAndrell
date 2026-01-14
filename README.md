@@ -5,9 +5,7 @@
 
 ---
 
-<div style="display:flex">
-<div>
-<h4 align="center">Um pouco mais sobre mim</h4>
+<h4 style="margin-left:5%"  align="left">Um pouco mais sobre mim</h4>
 
 
 - 📍 São Paulo - Guarulhos
@@ -65,8 +63,8 @@
 </div>
 
 </div>
-<div>
-<h4 align="center">Minhas experiências de trabalho</h4>
+<div style="margin-left:5%">
+<h4 align="left">Minhas experiências de trabalho</h4>
 
 [<img align="left" height="50px" width="50px" alt="Warpnet" src="https://media.licdn.com/dms/image/v2/C4D0BAQHZcMwtBg6C3Q/company-logo_200_200/company-logo_200_200/0/1630576665157?e=1770249600&v=beta&t=0rKdtn0Aw3egoBIosDrraffZwSCJ0aODxNs74WA7jqI"/>](https://www.evence.com.br/)
 
