@@ -63,7 +63,7 @@
 </div>
 
 </div>
-<div style="margin-left:5%">
+<!-- <div style="margin-left:5%">
 <h4 align="left">Minhas experiências de trabalho</h4>
 
 [<img align="left" height="50px" width="50px" alt="Warpnet" src="https://media.licdn.com/dms/image/v2/C4D0BAQHZcMwtBg6C3Q/company-logo_200_200/company-logo_200_200/0/1630576665157?e=1770249600&v=beta&t=0rKdtn0Aw3egoBIosDrraffZwSCJ0aODxNs74WA7jqI"/>](https://www.evence.com.br/)
@@ -97,6 +97,6 @@ Linguagens & Tecnologias: `PHP`, `Laravel`, `JavaScript`, `MySQL`\
 
 
 <br/>
-</div>
+</div> -->
 </div>
 </div>
