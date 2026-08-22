@@ -88,12 +88,9 @@ I currently work on the development and evolution of APIs, integrations and dist
   <a href="https://github.com/MatheusAndrell?tab=overview&from=2026-01-01&to=2026-12-31">
     <img src="https://img.shields.io/badge/View_my_contributions-238636?style=for-the-badge&logo=github&logoColor=white" alt="GitHub contributions" />
   </a>
-  <a href="https://open.spotify.com/user/b3j8vehl96n1pe3twn2n89q7e">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=b3j8vehl96n1pe3twn2n89q7e&cover_image=true&theme=natemoo-re&sbar_color=53b14f&bar_color_cover=false" alt="Spotify profile" />
-  </a>
 </p>
 
----
+
 
 <p align="center">
   Always learning, building and improving one commit at a time. 🚀
