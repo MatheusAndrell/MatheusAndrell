@@ -79,16 +79,15 @@ I currently work on the development and evolution of APIs, integrations and dist
 - **Technology Degree in Information Technology** — ENIAC
 - Continuous training in AWS, backend engineering, Docker, Kubernetes, Node.js, DDD, Clean Code and SOLID
 
-## GitHub stats
+## Find me online
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MatheusAndrell&show_icons=true&theme=github_dark&hide_border=true" alt="Matheus Andrell's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusAndrell&layout=compact&theme=github_dark&hide_border=true" alt="Most used languages" />
-</p>
-
-## Currently listening
-
-<p align="center">
+  <a href="https://github.com/MatheusAndrell?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore_my_repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub repositories" />
+  </a>
+  <a href="https://github.com/MatheusAndrell?tab=overview&from=2026-01-01&to=2026-12-31">
+    <img src="https://img.shields.io/badge/View_my_contributions-238636?style=for-the-badge&logo=github&logoColor=white" alt="GitHub contributions" />
+  </a>
   <a href="https://open.spotify.com/user/b3j8vehl96n1pe3twn2n89q7e">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=b3j8vehl96n1pe3twn2n89q7e&cover_image=true&theme=natemoo-re&sbar_color=53b14f&bar_color_cover=false" alt="Spotify profile" />
   </a>
